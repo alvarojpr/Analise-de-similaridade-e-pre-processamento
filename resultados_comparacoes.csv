@@ -1,0 +1,4 @@
+Sequência 1,Sequência 2,Distância Manhattan,Distância Euclidiana,Distância Supremum,Similaridade Cosseno
+hamster,horse,18,7.3484692283495345,5,0.9993966457604412
+hamster,rat,10,4.69041575982343,3,0.9997532493481444
+horse,rat,24,8.717797887081348,5,0.9991469538251109
